@@ -225,9 +225,9 @@ Caçula / Brigada AM - Supervisor Sub Luiz
 
 | Extintor    | curso | fox | financas | deposito |
 | ----------- | ----- | --- | -------- | -------- |
-| AP          |       |     |          |          |
+| AP          |       |     |          | 03       |
 | CO²         |       |     | 01       | 01       |
-| PQS         | 02    | 01  | 01       | 03       |
+| PQS         | 02    | 01  | 01       |          |
 | AP 72L      |       |     |          | 01       |
 | Mangueiras: |       |     |          |          |
 
