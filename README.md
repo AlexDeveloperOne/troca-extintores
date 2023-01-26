@@ -190,3 +190,69 @@ Caçula / Brigada AM - Supervisor Sub Luiz
 | ------- | ------- | --- | --------- |
 | 1.1/2"  | 08      | 04  |           |
 | 2.1/2"  | 56      |     | 56 restam |
+
+<br><br><br>
+
+# Loja Buenos Aires, 261
+
+## 1º Pavimento
+
+| Extintor    | Caixas | inf/papelaria | estacao/tecido/fox |
+| ----------- | ------ | ------------- | ------------------ |
+| AP          | 02     | 05            | 03                 |
+| CO²         | 01     |               |                    |
+| PQS         | 02     | 01            | 04                 |
+| Mangueiras: |        |               |                    |
+
+<br>
+
+---
+
+## 2º Pavimento
+
+| Extintor    |     |     |     |
+| ----------- | --- | --- | --- |
+| AP          | 09  |     |     |
+| CO²         |     |     |     |
+| PQS         | 05  |     |     |
+| Mangueiras: |     |     |     |
+
+<br>
+
+---
+
+## 3º Pavimento
+
+| Extintor    | curso | fox | financas | deposito |
+| ----------- | ----- | --- | -------- | -------- |
+| AP          |       |     |          |          |
+| CO²         |       |     | 01       | 01       |
+| PQS         | 02    | 01  | 01       | 03       |
+| AP 72L      |       |     |          | 01       |
+| Mangueiras: |       |     |          |          |
+
+<br>
+
+---
+
+## 4º Pavimento
+
+| Extintor    |     |     |     |
+| ----------- | --- | --- | --- |
+| AP          | 02  |     |     |
+| CO²         | 01  |     |     |
+| PQS         |     |     |     |
+| Mangueiras: |     |     |     |
+
+<br>
+
+---
+
+## 5º Pavimento
+
+| Extintor    | estacao de rede |     |     |
+| ----------- | --------------- | --- | --- |
+| AP          |                 |     |     |
+| CO²         |                 |     |     |
+| PQS         | 01              |     |     |
+| Mangueiras: |                 |     |     |
