@@ -197,12 +197,12 @@ Caçula / Brigada AM - Supervisor Sub Luiz
 
 ## 1º Pavimento
 
-| Extintor    | Caixas | inf/papelaria | estacao/tecido/fox |
-| ----------- | ------ | ------------- | ------------------ |
-| AP          | 02     | 05            | 03                 |
-| CO²         | 01     |               |                    |
-| PQS         | 02     | 01            | 01                 |
-| Mangueiras: |        |               |                    |
+| Extintor    | estacao/fox | Tecido | Caixas | Informatica |
+| ----------- | ------------| ------ | ------ | ----------- |
+| AP          |             | 03     | 02     |  05         |
+| CO²         |             |        | 01     |             |
+| PQS         | 02          | 02     | 02     |  01         |
+| Mangueiras: |             |        |        |             |
 
 <br>
 
@@ -210,12 +210,12 @@ Caçula / Brigada AM - Supervisor Sub Luiz
 
 ## 2º Pavimento
 
-| Extintor    |     |     |     |
-| ----------- | --- | --- | --- |
-| AP          | 09  |     |     |
-| CO²         |     |     |     |
-| PQS         | 05  |     |     |
-| Mangueiras: |     |     |     |
+| Extintor    | Aviamento | Madeira | Tintas | Sublimacao | Bijuteria |
+| ----------- | --------- | ------- | ------ | ---------- | --------- |
+| AP          | 04        | 01      | 02     | 01         |  01       |
+| CO²         |           |         |        |            |           |
+| PQS         | 04        |         |        | 01         |           |
+| Mangueiras: |           |         |        |            |           |
 
 <br>
 
